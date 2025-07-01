@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced topics and challenging projects.
 - 💬 Ask me about anything related to coding, I’m happy to help!
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 📫 How to reach me: [Your Email](mailto:najibainun756@gmail.com)
 
 ## 🛠️ Languages and Tools
 
