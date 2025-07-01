@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Python, JavaScript, Java, C++, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, VS Code, IntelliJ IDEA
+- **Languages:** Python, JavaScript, Java, C++, HTML, CSS, Dart
+- **Frameworks/Libraries:** React, NextJS, Node.js, Express, Flask
+- **Tools:** Git, VS Code
 
 ## 🏆 GitHub Stats
 
@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/aenoen)
+- [Personal Website](https://ainuns.my.id)
 
 Thank you for visiting my profile! Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!
